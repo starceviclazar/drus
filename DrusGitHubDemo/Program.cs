@@ -9,6 +9,7 @@ namespace DrusGitHubDemo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("fgadfg");
         }
     }
 }
